@@ -1,0 +1,31 @@
+body{
+    background:"абстрактный.jpg"; 
+    background-size: cover;
+    }
+    #male:link, #male:visited {
+        background-color: rgb(96, 96, 255);
+        color: white;
+        padding: 14px 25px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+      }
+      
+      #male:hover, #male:active {
+        background-color: blue;
+      }
+    #female:link, #female:visited {
+        background-color: pink;
+        color: white;
+        padding: 14px 25px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+      }
+      
+      #female:hover, #female:active {
+        background-color: palevioletred;
+      }
+      h1{
+        color: antiquewhite;
+      }
